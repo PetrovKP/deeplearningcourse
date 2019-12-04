@@ -26,6 +26,7 @@
 1) MLP, который показал наилучший accuracy из лабораторной №1:
 
 ![custom model](./../lab1/images/custom_model.png)
+
 2) CNN, которая показала наилучший accuracy из лабораторной работы №2:
 
 ![model example](./../lab2/images/model_example.png)
