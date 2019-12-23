@@ -67,3 +67,14 @@ batch_size изображений из изначальной структуры
 аутментацию - каждое изображение может быть видоизменено для создания новых экземпляров. 
 Под видоизменением могут подразумеваться сдвиги, повороты, зеркальные отражения и прочее. 
 В библиотеке Keras для аугментации существует класс ImageDataGenerator.
+
+## Полученные результаты
+|Model|Test accuracy|
+|-|-|
+|Best MLP |0.473|
+|Best MLP with autoencoder|0.492|
+|Best CNN |0.88|
+|Best CNN with autoencoder|0.93|
+|Pre-trained VGG-16 |0.95|
+|Pre-trained VGG-16 + XGBoost|0.94|
+|Pre-trained VGG-16 + Dense |0.997|
