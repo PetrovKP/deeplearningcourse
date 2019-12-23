@@ -75,6 +75,6 @@ batch_size изображений из изначальной структуры
 |Best MLP with autoencoder|0.492|
 |Best CNN |0.88|
 |Best CNN with autoencoder|0.93|
-|Pre-trained VGG-16 |0.95|
-|Pre-trained VGG-16 + XGBoost|0.94|
-|Pre-trained VGG-16 + Dense |0.997|
+|VGG-16|0.95|
+|VGG-16 + XGBoost|0.94|
+|Pre-trained VGG-16 + new Dense|0.997|
